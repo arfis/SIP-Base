@@ -2,8 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/Michal/Desktop/skola/eclipse/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Michal/Desktop/skola/eclipse/jain-sip/jain-sip-api-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Michal/Desktop/skola/eclipse/jain-sip/jain-sip-ri-1.2.1111.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michal/workspace/SIP-Base/lib/jain-sip-api-1.2-2007-07-25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michal/workspace/SIP-Base/lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

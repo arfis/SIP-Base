@@ -16,7 +16,7 @@ public class Main {
 	public static void main(String[] args){
 try {
 	guiCko.nakresli();
-	FileInputStream citaj = new FileInputStream("F:"+"\\"+"skola"+"\\"+"New folder"+"\\"+"New folder"+"\\"+"Nemazat"+"\\"+"src"+"\\"+"Nemazat"+"\\"+"conf");
+	FileInputStream citaj = new FileInputStream("conf");
 	BufferedReader br = new BufferedReader(new InputStreamReader(citaj));
 	String riadok;
 	int index=0;

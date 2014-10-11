@@ -1,5 +1,4 @@
 package Nemazat;
-import gov.nist.javax.sip.stack.MessageProcessor;
 
 import java.awt.List;
 import java.net.InetAddress;
@@ -56,7 +55,6 @@ public class SipLayer implements SipListener{
 		static public DefaultListModel listDialogov = new DefaultListModel();
 		static public DefaultListModel listTranzakcii = new DefaultListModel();
 		static public DefaultListModel listMetod = new DefaultListModel();
-        private MessageProcessor messageProcessor;
         private String username;
         private SipStack sipStack;
         private SipFactory sipFactory;
